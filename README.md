@@ -7,8 +7,8 @@ Install the requirements using homebrew:
 $ brew install pkg-config sdl2 sdl2_image sdl2_ttf sdl2_mixer gstreamer
 Install Cython and Kivy using pip:
 
-$ pip3 install Cython==0.29.10
-$ pip3 install kivy
+$ pip install Cython==0.29.10
+$ pip install kivy
 To install the development version, use this in the second step:
 
-$ pip3 install https://github.com/kivy/kivy/archive/master.zip
+$ pip install https://github.com/kivy/kivy/archive/master.zip
